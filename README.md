@@ -6,3 +6,4 @@ Generates an accompaniment for the given melody using circle of fifth.
 
 ## Examples
 
+See input1.mid, inpu2.mid, inpu3.mid and their versions with accompaniment - output1,mid, output2.mid, output3.mid respectively
